@@ -26,6 +26,5 @@
         "src": "/(.*)",
         "dest": "rental/wsgi.py"
       }
-    ],
-    "outputDirectory": "staticfiles"
+    ]
   }
